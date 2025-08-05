@@ -19,7 +19,7 @@ The film industry is fast-paced,what's popular today might be a flop tomorrow. T
 
 # PRESENTATION [LINK](https://github.com/Rosette-Matoke/PH2_PROJECT_REPO/blob/main/presentation.pdf)
 # TABLEAU [LINK](https://public.tableau.com/app/profile/rose.matoke/viz/THEMOVIEANALYSIS/Dashboard1)
->>>>>>> 848fd0f09d5fbc742a3a85cf62c56c214e406ce1
+
 
 ## 3.0 DATA UNDERSTANDING
 # IMDb databa
